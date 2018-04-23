@@ -1,1 +1,1 @@
-# AGD-serwis
+# AGD-serwis.
